@@ -11,7 +11,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CBS News"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CBS.svg/512px-CBS.svg.png"group-title="News",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-id="CFTUDT.ca"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Savoir_tv_logo.png"group-title="Undefined",Canal Savoir (360p)
+#EXTINF:-1 tvg-id="Canal Savoir"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Savoir_tv_logo.png"group-title="Undefined",Canal Savoir (360p)
 https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-id="CNN International"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CNN.svg/512px-CNN.svg.png"group-title="News",CNN INternational (520p)
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
@@ -19,27 +19,25 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png"group-title="Documentary",CGTN Documentary (576p)
 http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
-#EXTINF:-1 tvg-id="CTVNewsChannel.ca"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/CTV_News_Channel.png"group-title="News",CTV (720p)
+#EXTINF:-1 tvg-id="CTV NewsChannel.ca"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/CTV_News_Channel.png"group-title="News",CTV (720p)
 https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
 #EXTINF:-1 tvg-id="DegrassiTheNextGenerationCanada.ca"tvg-logo="https://i.imgur.com/mRBQKp3.png"group-title="Undefined",Degrassi The Next Generation (Canada) (720p)
 http://dhx-degrassi-2-ca.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="DoyelTV.ca"tvg-logo="https://i.imgur.com/Anfm99v.png"group-title="General",Doyel TV (720p) [Not 24/7]
-http://ipm.oncast.me:1934/iplived/ip-doyeltv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="DWEnglish.de"tvg-logo="https://i.imgur.com/A1xzjOI.png"group-title="News",DW English (1080p)
+#EXTINF:-1 tvg-id="DW English.de"tvg-logo="https://i.imgur.com/A1xzjOI.png"group-title="News",DW English (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="FightNetwork.ca"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/512px-Fight_network_logo.svg.png"group-title="Sports",Fight Network (1080p)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="Fox News Now"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fox.svg/512px-Fox.svg.png"group-title="News",Fox News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="France24English.fr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png"group-title="News",France 24 English (1080p)
+#EXTINF:-1 tvg-id="France24 English.fr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png"group-title="News",France 24 English (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24English/live
 #EXTINF:-1 tvg-id="HLN.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/512px-HLN_%28TV_network%29_2017_logo.svg.png"group-title="News",HLN (720p)
 https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="CFHDDT.ca"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/ICI_Montreal.png/512px-ICI_Montreal.png"group-title="Undefined",ICI Montreal (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Ici Montreal"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/ICI_Montreal.png/512px-ICI_Montreal.png"group-title="Undefined",ICI Montreal (720p) [Not 24/7]
 https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
-#EXTINF:-1 tvg-id="CBFTDT.ca"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/ICI_Grand_Montr%C3%A9al_logo.png/512px-ICI_Grand_Montr%C3%A9al_logo.png"group-title="General",Ici Radio-Canada Télé (720p)
+#EXTINF:-1 tvg-id="Ici Radio Canada Tele"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/ICI_Grand_Montr%C3%A9al_logo.png/512px-ICI_Grand_Montr%C3%A9al_logo.png"group-title="General",Ici Radio-Canada Télé (720p)
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
-#EXTINF:-1 tvg-id="IciRDI.ca"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/512px-ICI_RDI_logo.svg.png"group-title="News",ICI RDI (720p)
+#EXTINF:-1 tvg-id="Ici RDI.ca"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/512px-ICI_RDI_logo.svg.png"group-title="News",ICI RDI (720p)
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 tvg-id="InsightTV.nl"tvg-logo="https://i.imgur.com/7xmaoL0.png"group-title="Sports",Insight TV (1080p)
 https://insighttv-vizio.amagi.tv/playlist.m3u8
@@ -53,7 +51,7 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="NETVToronto.ca"tvg-logo="https://i.imgur.com/IYDllP5.jpg"group-title="Movies",NETV Toronto (720p) [Not 24/7]
 https://live.streams.ovh/NetvToronto/NetvToronto/playlist.m3u8
-#EXTINF:-1 tvg-id="Noovo.ca"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Noovo_logo.png/512px-Noovo_logo.png"group-title="Undefined",Noovo [Not 24/7]
+#EXTINF:-1 tvg-id="NOOVO"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Noovo_logo.png/512px-Noovo_logo.png"group-title="Undefined",Noovo [Not 24/7]
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
 #EXTINF:-1 tvg-id="NRBTV.ca"tvg-logo="https://i.imgur.com/3xBKPd8.png"group-title="General",NRB TV (1080p) [Not 24/7]
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/playlist.m3u8
@@ -63,15 +61,15 @@ https://2-fss-1.streamhoster.com/pl_122/201748-1282644-1/playlist.m3u8
 https://outside-tv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="PlayersTV.ca"tvg-logo="https://i.imgur.com/d3EaS41.png"group-title="Sports",Players TV (1080p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr"tvg-logo="https://i.imgur.com/8t9mdg9.png"group-title="News",Pluto TV Euronews (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Euronews English.fr"tvg-logo="https://i.imgur.com/8t9mdg9.png"group-title="News",Pluto TV Euronews (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlymouthRockTV.ca"tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PlymouthRockTV_205x205.png?raw=true"group-title="Undefined",Plymouth Rock TV (1080p)
+#EXTINF:-1 tvg-id="Plymouth RockTV.ca"tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PlymouthRockTV_205x205.png?raw=true"group-title="Undefined",Plymouth Rock TV (1080p)
 https://vse2-eu-all59.secdn.net/barakyah-channel/live/plymouthtv/playlist.m3u8
-#EXTINF:-1 tvg-id="StingrayQello.ca"tvg-logo="https://i.imgur.com/LO0EZhT.png"group-title="Music",Qello Concerts by Stingray (1080p)
+#EXTINF:-1 tvg-id="Stingray Qello.ca"tvg-logo="https://i.imgur.com/LO0EZhT.png"group-title="Music",Qello Concerts by Stingray (1080p)
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_uk_stingrayqello_001.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at"tvg-logo="https://i.imgur.com/7NeBmWX.jpg"group-title="Sports",Red Bull TV (1080p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="RTenEspanol.ru"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png"group-title="News",RT en Español (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="RT en Espanol"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png"group-title="News",RT en Español (1080p) [Geo-blocked]
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="SEAToday.id"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/SEA_Today_Indonesia_Logo.png/512px-SEA_Today_Indonesia_Logo.png"group-title="Undefined",Sea Today (720p) [Geo-blocked]
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
@@ -113,12 +111,10 @@ https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f7722
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png"group-title="News",TRT World (720p) [Not 24/7]
 https://tv-trtworld.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="CFTMDT.ca"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/512px-TVA_logo_2020.svg.png"group-title="Undefined",TVA [Geo-blocked]
+#EXTINF:-1 tvg-id="TVA"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/512px-TVA_logo_2020.svg.png"group-title="Undefined",TVA [Geo-blocked]
 https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8
 #EXTINF:-1 tvg-id="TVC9.ca"tvg-logo="https://i.imgur.com/KLWdogU.png"group-title="Undefined",TVC9 (1080p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC0JP0ek-HhcqisiEpsZiQZA/live
-#EXTINF:-1 tvg-id="UNWebTV.us"tvg-logo="https://i.imgur.com/lPyJhBN.png"group-title="News",UN Web TV (540p)
-https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="UvagutTV.ca"tvg-logo="https://i.imgur.com/RR7ATr2.png"group-title="Undefined",Uvagut TV (1080p)
 http://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8
 #EXTINF:-1 tvg-id="Weatherspy.ca"tvg-logo="https://i.imgur.com/8oJYi1z.png"group-title="Weather",Weatherspy (720p)
