@@ -5,7 +5,7 @@ http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
 https://livevideo01.wkyc.com/hls/live/2015504/newscasts/live.m3u8
 #EXTINF:-1 tvg-id="5AABTV.ca" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="Undefined",5AAB TV (720p) [Not 24/7]
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",12 News Beaumont TX (KBMT) (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",12 News Beaumont TX (KBMT) (1080p)
 https://livevideo01.12newsnow.com/hls/live/2017379/newscasts/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",23 ABC Bakersfield CA (KERO) (720p)
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
